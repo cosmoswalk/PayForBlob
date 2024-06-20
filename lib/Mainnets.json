@@ -1,0 +1,42 @@
+{
+    "PhotoPath": [
+      "/img/QuicksilverProtocol.svg",
+      "/img/Aptos.svg",
+      "/img/canto.svg",
+      "/img/EvmosisHiring.svg",
+      "/img/GravityBridge.svg",
+      "/img/IdepNetwork.svg",
+      "/img/MemeNetwork.svg",
+      "/img/Rebus.svg",
+      "/img/Solana.svg",
+      "/img/Stride.svg",
+      "/img/Umee.svg"
+    ],
+    "Name": [
+      "Quicksilver",
+      "Aptos",
+      "Canto",
+      "Evmos",
+      "Gravity",
+      "Idep",
+      "MeMe",
+      "Rebus",
+      "Solana",
+      "Stride",
+      "Umee"
+    ],
+    "url_ch": [
+      "https://quicksilver.zone/",
+      "https://aptoslabs.com/",
+      "https://explorer.stake-take.com/canto/staking/cantovaloper1s5a9nczvvsd82pznj56d3nfngq74gcazvpgfsv",
+      "https://evmos.org/",
+      "https://wallet.keplr.app/#/gravity-bridge/stake?modal=detail&validator=gravityvaloper123a04v3hxf40yl4sa2924v5zpmp7qat6psznex&all-list=true",
+      "https://explorer.stake-take.com/idep/staking/idepvaloper1wkx87e6h6xt7ler87dyscw3zzlmydppsh96vd5",
+      "https://explorer.stake-take.com/meme/staking/memevaloper12j8867yuc5q7f0g7x0jdwq3qpuv25aq2ngzqf2",
+      "https://explorer.stake-take.com/rebus-mainnet/staking/rebusvaloper106k0ejdk79r5zvdfgpp95vw7n5w367zn6u9dlj",
+      "https://www.validators.app/validators/9oJWvtDMLLM5U5hQ8iZ5LjbZLtHHzys91hvQC6esmsrJ?locale=en&network=mainnet",
+      "https://wallet.keplr.app/chains/stride?modal=validator&chain=stride-1&validator_address=stridevaloper12guhgs4zgp787mp0nh8x7kmvtw64acqstjdxjy",
+      "https://wallet.keplr.app/#/umee/stake?modal=detail&validator=umeevaloper1wwl9f8wcc0am9wruvmx4hjzdv7ewfcex0lz9vp&all-list=true"
+    ]
+  }
+
