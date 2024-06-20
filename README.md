@@ -1,1 +1,1 @@
-# PayForBlob php
+# PayForBlob Celestia php for Stake-Take
